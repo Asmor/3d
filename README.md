@@ -1,6 +1,6 @@
 # 3d
 
-Models I've designed for 3d printing
+Models I've designed for 3d printing. Includes both STLs for printing and FreeCAD source files for remixing.
 
 - [3d](#3d)
 - [Models](#models)
