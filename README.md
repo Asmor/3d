@@ -12,9 +12,10 @@ Models I've designed for 3d printing. Includes both STLs for printing and FreeCA
 
 ## Games
 
-|                                                                           Image                                                                           | Game    | Model                                                | Description                                                     |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------: | ------- | ---------------------------------------------------- | --------------------------------------------------------------- |
-| [<img src="./games/cubitos/player-pieces-holder/images/holders-neat.jpg" width="300" alt="Cubitos player trays"/>](./games/cubitos/player-pieces-holder/) | Cubitos | [Player Tray](./games/cubitos/player-pieces-holder/) | Tray for starting player pieces that uses phase token as a lid. |
+|                                                                           Image                                                                           | Game          | Model                                                | Description                                                     |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------: | ------------- | ---------------------------------------------------- | --------------------------------------------------------------- |
+|              [<img src="./games/a-gentle-rain/box/images/closed.jpg" width="300" alt="Box for A Gentle Rain"/>](./games/a-gentle-rain/box/)               | A Gentle Rain | [Box](./games/a-gentle-rain/box/)                    | Box for A Gentle Rain (Bloom Edition)                           |
+| [<img src="./games/cubitos/player-pieces-holder/images/holders-neat.jpg" width="300" alt="Cubitos player trays"/>](./games/cubitos/player-pieces-holder/) | Cubitos       | [Player Tray](./games/cubitos/player-pieces-holder/) | Tray for starting player pieces that uses phase token as a lid. |
 
 ## Home
 
