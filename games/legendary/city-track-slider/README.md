@@ -10,6 +10,11 @@
 
 ![Legendary villains on sliders, mid-game](./images/sliders-on-board.jpg)
 
+<video width="640" height="360" controls>
+  <source src="./images/city-slider.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## About
 
 Tiny little trays that sit on your city track and allow you to easily move the entire line down--including captured bystanders and other cards--to make room for new villains entering.
